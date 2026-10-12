@@ -1,0 +1,6 @@
+.env
+/db/chroma_db/
+/docs/
+/txtloader/db/
+/txtloader/docs/
+.venv
